@@ -95,7 +95,7 @@ export default function Sidebar() {
       <div className="border-t border-[#1f1f1f] p-5 text-center">
 
         <p className="text-xs text-gray-500">
-          PK Store ERP
+          PK Store
         </p>
 
         <p className="text-[11px] text-gray-600 mt-1">
